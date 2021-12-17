@@ -14,6 +14,6 @@ This project performs the calculation of Fibonacci numbers.This is implemented t
 
 For use HTTP API, you need to use the URL   http://localhost:8080/numbers?start=5&end=7
 where "start" is the first number of fibonacci and "end" is the last number.
-In response, you will get Fibonacci numbers between first and last number thet you entered.
+In response, you will get Fibonacci numbers between first and last number you entered.
 
 For GRPC you need use port 8081.
